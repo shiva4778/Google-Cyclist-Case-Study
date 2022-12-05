@@ -8,4 +8,4 @@ As a junior data analyst on Cyclistic's marketing analytics team, I've been task
 
 You'll find the written report on my data analysis process in the cyclistic-case-study.ipynb file above.
 
-My case study ppt link : https://public.tableau.com/app/profile/vincent.wainman/viz/CaseStudy-Cyclistic/CyclisticCaseStudyVisuals
+My case study ppt link : https://drive.google.com/file/d/1L5Y1cxG5anxYwpatUsnHkMOLT8pX5y3m/view?usp=share_link
